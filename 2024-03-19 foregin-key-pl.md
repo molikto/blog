@@ -70,6 +70,7 @@ The grand idea is a framework for easy application development, even "personal s
 
 There is still a lot unknown...
 
+* Is the purposed feature good enough to replace foregin keys in SQL? Is it powerful enough to express useful things people want to express?
 * How to have "dervied values" (derived table in SQL). This will require we have a term level language, and we need to see how they work with the new features we have
 * How to have a data modification language?
 
