@@ -1,3 +1,3 @@
 # blog
 
-see the file list for posts.
+[see discussions](https://github.com/molikto/blog/discussions)
